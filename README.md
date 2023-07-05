@@ -1,7 +1,7 @@
 # Demolition Man
 This project was created as part of the unit **INFO1113** at the University of Sydney.
 
-![](./demo.gif)
+![Demolition](./demo.gif)
 
 ## Introduction
 In this tiny demo, you could manipulate the character to place the bomb (key : **SHIFT**) or make movements (key: **W, A, S, D**). 
